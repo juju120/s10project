@@ -1,5 +1,3 @@
 <?php
-$con=mysqli_connect("localhost","root","");
-mysqli_select_db($con,"test");
-
+	$con=mysqli_connect('localhost','root','','registration');
 ?>
